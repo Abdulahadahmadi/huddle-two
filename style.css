@@ -280,6 +280,9 @@ footer li:hover, footer svg:hover, footer a:hover {
     .feature-text {
         margin: 1em 0;
     }
+    .feature-img {
+        height: 3em;
+    }
     .cta-card {
         width: 80%;
         margin: 2em auto -6em;
